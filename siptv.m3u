@@ -135,6 +135,8 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurosport.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Eurosport1.svn",EUROSPORT 1 HD
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurosporthd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Eurosport2.svn",EUROSPORT 2 HD
+http://91.126.141.201:1935/live/eurosport2hdnntv/master.m3u8
 #EXTINF:0, tvg-id="Sport1.svn",SPORT1
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dsf2.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Extreme.svn",EXTREME
@@ -239,6 +241,8 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ntv.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="AlJazeeraBalkans.svn",AL JAZEERA BALKANS
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/aljazeera.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="AlJazeeraBalkans.svn",AL JAZEERA BALKANS HD
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:0, tvg-id="RTLNEMCIJA.svn",RTL
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtl.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="RTL2NEMCIJA.svn",RTL2
