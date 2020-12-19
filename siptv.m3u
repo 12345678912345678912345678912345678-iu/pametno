@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxlifehd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="FOXCrime.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Crime
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxcrimehd.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0 tvg-id="CineStarTVv2.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
+#EXTINF:0 tvg-id="CineStarTV.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestartv2.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="CinestarComedy.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV Comedy
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestartvcomedy2.m3u8|User-Agent="AppleCoreMedia
@@ -137,7 +137,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurosporthd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Eurosport2.svn",EUROSPORT 2 HD
 http://91.126.141.201:1935/live/eurosport2hdnntv/master.m3u8
-#EXTINF:0, tvg-id="Sport1.svn",SPORT1
+#EXTINF:0, tvg-id="Sport1HD.de",SPORT1
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dsf2.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Extreme.svn",EXTREME
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/extreme2.m3u8|User-Agent="AppleCoreMedia
