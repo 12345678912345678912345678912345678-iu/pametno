@@ -241,6 +241,8 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ntv.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Al Jazeera Balkans",AL JAZEERA BALKANS
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/aljazeera.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Al Jazeera Balkans",AL JAZEERA BALKANS HD
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:0, tvg-id="RTL",RTL
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtl.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="RTL 2",RTL2
@@ -379,8 +381,6 @@ http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1,TV Partizan HD
 http://212.200.102.3:5000/udp/239.99.99.99:23999
-#EXTINF:0, tvg-id="AXN",AXN 4 ure
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/axn4ure.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Slovenija_1.png" ,Radio Slovenija 1
 https://34-rtvslo-ra-ra1.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Val_202.png" ,Val 202
