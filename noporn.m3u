@@ -1,0 +1,517 @@
+#EXTM3U url-tvg="http://freeweb.t-2.net/itak/epg_b.xml.gz" 
+#EXTINF:0, tvg-id="SLO 1 HD", SLO 1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo1hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SLO 1 HD", RTV SLO 1
+https://30-rtvslo-tv-slo1-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0, tvg-id="SLO 2 HD", SLO 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SLO 2 HD", RTV SLO 2
+https://20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0, tvg-id="SLO 3", SLO 3
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo3hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SLO 3", RTV SLO 3
+https://15-rtvslo-tv-slo3-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0, tvg-id="TV Koper", RTV KOPER
+https://26-rtvslo-tv-kp-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0, tvg-id="Tele M", RTV MARIBOR
+https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0, RTV MMC
+https://28-rtvslo-tv-mmc-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0, tvg-id="Kanal A HD", Kanal A
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/akanalhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="POP TV HD", Pop TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/poptvhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Planet TV HD", Planet TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planettvhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV3 Medias", TV3 Medias
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tv3hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Brio HD", Pop Brio
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/briohd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="FOX HD", Fox
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="FOX Life HD", Fox Life
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxlifehd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="FOX Crime HD", Fox Crime
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxcrimehd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="CineStar TV", Cinestar TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestartv2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="CineStar Comedy", Cinestar TV Comedy
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestartvcomedy2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Cinemax HD", CINEMAX
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinemaxhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="Cinemax 2 HD", CINEMAX 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinemax2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="HBO HD", HBO
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hbohd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="HBO 2 HD", HBO 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hbo2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="HBO 3 HD", HBO 3
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hbo3hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV 1000", TV 1000
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tv10002.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="AMC", AMC
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/amchd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="FOX Movies HD", FOX Movies
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxmovieshd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CineStar Premiere 1 HD", CineStar Premiere 1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestarpr1hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CineStar Premiere 2 HD", CineStar Premiere 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestarpr2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Kino HD", Pop Kino
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/kinohd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Diva", DIVA
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/diva2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Klasik TV",KLASIK TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/klasiktv2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Planet TV 2 HD",PLANET TV 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planet2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Planet Plus HD",PLANET PLUS
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planetplushd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Gold TV",Gold TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/goldtv2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Nova 24 TV HD",NOVA 24 TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/nova24tv2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="AXN",AXN
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/axn.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="AXN Spin",AXN SPIN
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/axnspin2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="BBC First",BBC FIRST
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bbcfirsthd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Epic Drama",EPIC DRAMA
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/epicdrama2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,EUROCHANNEL
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurochannelhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="BBC Earth",BBC EARTH
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bbcearthhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Planet Earth",PLANET EARTH
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planetearthhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="National Geographic HD",NATIONAL GEOGRAPHIC
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/natgeohd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="National Geographic Wild HD",NATIONAL GEOGRAPHIC WILD
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/natgeowhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Animal Planet HD",ANIMAL PLANET
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/animal2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Animal Planet HD",ANIMAL PLANET HD
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/animalhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Discovery Channel",DISCOVERY CHANNEL
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/discovery2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Discovery Showcase HD",DISCOVERY SHOWCASE
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/showcasehd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ID Xtra",Discovery ID Xtra
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/discidx2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Travel Channel HD",TRAVEL
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/travelhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Discovery Science",DISCOVERY SCIENCE
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/discscihd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="History Channel HD",HISTORY
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/historyhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Viasat History",VIASAT HISTORY
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/viasathistory2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Viasat Explorer",VIASAT EXPLORE
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/explorer2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Da Vinci Learning",DAVINCI LEARNING
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/davincilear2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="24Kitchen Adria HD",24 KITCHEN
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/24kitchenhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TLC",TLC
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tlc2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CBS Reality",CBS REALITY
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cbsreality2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Woman HD",WOMAN
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/woman2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Dr. Fit HD",DRFIT
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/drfit2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Šport TV 1 HD",SPORT TV 1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/s1hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Šport TV 2 HD",SPORT TV 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/s2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Šport TV 3 HD",SPORT TV 3
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/s3hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ArenaSport 1",ARENASPORT 1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/arenasporthd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ArenaSport 2",ARENASPORT 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/arenasport2hd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Eurosport",EUROSPORT 1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurosport.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Eurosport",EUROSPORT 1 HD
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurosporthd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Eurosport 2",EUROSPORT 2
+http://91.126.141.201:1935/live/eurosport2hdnntv/master.m3u8
+#EXTINF:0, tvg-id="SPORT1",SPORT1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dsf2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Extreme",EXTREME
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/extreme2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",OUTDOOR CHANNEL
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/outdoorhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",MOTORVISION
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/motorvisionhd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTS Maribor",RTS
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rts.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TELE M",TELE M
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/telem.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV Koper",KOPER
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/koper.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Vaš Kanal",VAŠ KANAL
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vaskanal.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV AS",AS TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/astv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VTV Velenje",VTV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vtv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV Celje",TV CELJE
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tvcelje.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SIP TV",SIP TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/siptv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Idea TV",IDEA TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ideatv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Net TV",NET TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/net.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Arena TV",ARENA TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/arenatv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV Galeja",GALEJA TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/galeja.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="BK TV",BK TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bktvslo.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="GO TV",GO TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/gotv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV Slovenj Gradec",TV SG
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tvsg.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV Exodus HD",EXODUS TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/exodus.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="HRT 1",HRT1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hrt1v2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="HRT 1",HRT 1 HD
+http://195.29.70.82/PLTV/88888888/224/3221226139/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:0, tvg-id="HRT 2",HRT2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hrt2v2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="HRT 2",HRT 2 HD
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:0, tvg-id="HRT 3",HRT3
+http://195.29.70.82/PLTV/88888888/224/3221226280/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:0, tvg-id="HRT 4",HRT4
+http://195.29.70.82/PLTV/88888888/224/3221226281/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:0, tvg-id="RTL TV",RTLHRVATSKA
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtlhrvatska.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTL TV",RTLHRVATSKA HD
+http://195.29.70.82/PLTV/88888888/224/3221226195/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:0, tvg-id="RTL 2 Hrvaška",RTLHRVATSKA 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtlhrvatska2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,NB Comedy Channel
+http://195.29.70.82/PLTV/88888888/224/3221226407/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:0, tvg-id="RTS 1",RT SRBIJE
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtsrbije.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RT Crna gora",RTCG
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtcg.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",RTK
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtk.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Hayat TV BiH",HAYAT
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hayat.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="OBN",OBN
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/obn.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ORF 1",ORF1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/orf1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ORF 2",ORF2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/orf2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ARD",ARD
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ard.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="ZDF HD",ZDF
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/zdf.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="3sat",3SAT
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/3sat.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RAI 1",RAI 1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rai1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RAI 2",RAI 2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rai2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RAI 3",RAI 3
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rai3.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Duna World",DUNA TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dunatv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TOP TV HD",TOP TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/toptv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="BBC World News",BBC WORLD
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bbcworld.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CNN International",CNN
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cnn.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Bloomberg",BLOOMBERG
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bloomberg.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV5Monde",TV5MONDE
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tv5monde.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="France 24 French",FRANCE24
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/france24.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",NTV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ntv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Al Jazeera Balkans",AL JAZEERA BALKANS
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/aljazeera.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Al Jazeera Balkans",AL JAZEERA BALKANS HD
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:0, tvg-id="RTL",RTL
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtl.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="RTL 2",RTL2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtl2.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Pro 7",PRO7
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/pro7.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Kabel 1",KABEL1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/kabel1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="SAT 1",SAT1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/sat1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VOX",VOX
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vox.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="E!",E!
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/e.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Fashion TV HD",FASHION TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/fashion.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",GINX ESPORTS TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ginx.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Arena Esport",ARENAESPORT
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/arenaesport.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",MEDIASET ITALIA
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mediaset.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",CHANNEL ONE RUSSIA
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/russia1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="OTO HD",POP OTO
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/oto.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Boomerang",BOOMERANG
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/boomerang.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Cartoon Network",CARTOON NETWORK
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cartoon.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Baby TV",BABY TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/babytv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Super RTL",SUPER RTL
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/superrtl.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Minimax",MINIMAX
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/minimax.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Nick JR",NICK JUNIOR
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/nickjunior.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="JimJam",JIM JAM
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/jimjam.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Nickelodeon HD",NICKELODEON
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/nickelodeon.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",DUCK TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ducktv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,MTV Channel
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,MTV Channel[HD] 720p
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, tvg-id="MTV Adria",MTV ADRIA
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtv.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="MTV Live HD",MTV LIVEHD
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvlive.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,Redbull TV[HD] 720p
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,Redbull TV[HD] 1080p
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0, tvg-id="TV Čarli",ČARLI TV
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/carli.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Golica TV",TV GOLICA
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/golica.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="TV Veseljak",TV VESELJAK
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/veseljak.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",TV PETELIN
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/petelin.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="DM SAT TV",DM SAT
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dmsat.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="CMC",CMC
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cmc.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Jugoton TV",JUGOTON
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/jugoton.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="MTV Rocks",MTV ROCKS
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvrocks.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="MTV Hits",MTV HITS
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvhits.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="",MTV DANCE
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvdance.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VH1",VH 1
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vh1.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="VH1 Classic",VH 1 CLASSIC
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vh1cla.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Mezzo",MEZZO
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mezzo.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0, tvg-id="Mezzo Live HD",MEZZO LIVEHD
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mezzolivehd.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Plus tv
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Motor TV
+http://45.58.62.92:8084
+#EXTINF:-1,Tv2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1,Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,teleMonteneve
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Slovenija_1.png" ,Radio Slovenija 1
+https://34-rtvslo-ra-ra1.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Val_202.png" ,Val 202
+https://19-rtvslo-ra-val202.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/ARS.png" ,ARS
+https://35-rtvslo-ra-ars.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Slovenia_International.png" ,Radio Slovenia International
+https://40-rtvslo-ra-rsi.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Maribor.png" ,Radio Maribor
+https://39-rtvslo-ra-ramb.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Koper.png" ,Radio Koper
+https://38-rtvslo-ra-rakp.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual
+http://stream.radioaktual.si/Aktual
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual Dalmacija
+http://stream.radioaktual.si/AktualDalmacija
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual Latino
+http://stream.radioaktual.si/AktualLatino
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_1.png" ,Radio 1
+http://live.radio1.si/Radio1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_2.png" ,Radio 2
+http://live-c.radio.si/Radio2
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Center.png" ,Radio Center
+http://stream3.radiocenter.si:8000/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Center.png" ,Radio Center Top 100
+http://stream3.radiocenter.si:9020/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Center.png" ,Radio Center Fresh Pop
+http://stream3.radiocenter.si:8058/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Center.png" ,Radio Center 80's
+http://stream3.radiocenter.si:8064/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Center.png" ,Radio Center Latin
+http://stream3.radiocenter.si:8200/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Center.png" ,Radio Center YU
+http://stream3.radiocenter.si:8100/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Center.png" ,Radio Center Love
+http://stream3.radiocenter.si:8060/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Center.png" ,Radio Center Megamix
+http://stream3.radiocenter.si:8066/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Antena.png" ,Radio Antena
+https://live-c.radio.si/Antena
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Fantasy.png" ,Radio Fantasy
+https://livesecure.radio.si/Fantasy
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Hit.png" ,Radio Hit
+http://stream02.exit.si:8000/radiohit
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Ekspres.png" ,Radio Ekspres
+http://stream2.radioekspres.si:8016/
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_City.png" ,Radio City
+http://stream1.radiocity.si:8000/CityMp3128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Rock_Radio.png" ,Rock Radio
+http://stream.rockradio.si:9034/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Salomon.png" ,Radio Salomon
+http://stream.radiosalomon.si/Salomon
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Salomon.png" ,Radio Salomon Dance Now
+http://stream.radiosalomon.si/SalomonDanceNow
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Live.png" ,Radio Capris
+http://stream01.exit.si:8000/live
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Hits.png" ,Radio Capris Hits
+http://stream02.exit.si:8000/HITS
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Rock.png" ,Radio Capris Rock
+http://stream02.exit.si:8000/ROCK
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Romantic.png" ,Radio Capris Romantic
+http://stream02.exit.si:8000/LOVE
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Poletje.png" ,Radio Capris Poletje
+http://stream02.exit.si:8000/POLETJE
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Slovenija.png" ,Radio Capris Slovenija
+http://stream02.exit.si:8000/SLO
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Italija.png" ,Radio Capris Italija
+http://stream02.exit.si:8000/ITA
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_EX_YU.png" ,Radio Capris EXYU
+http://stream02.exit.si:8000/EXYU
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Dalmacija.png" ,Radio Capris Dalmacija
+http://stream02.exit.si:8000/DALMACIJA
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_80s.png" ,Radio Capris 80's
+http://stream02.exit.si:8000/80
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_90s.png" ,Radio Capris 90's
+http://stream02.exit.si:8000/90
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Capris_Megamix.png" ,Radio Capris Megamix
+http://stream02.exit.si:8000/MEGAMIX
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Moj_Radio.png" ,Moj Radio
+http://89.212.21.23:8002/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Bob.png" ,Radio Bob
+http://live.radiobob.si/Europa05
+#EXTINF:-1 radio="true" tvg-logo="http://www.rumenestrani.si/pasice/radio-robin-36595.gif" ,Radio Robin
+http://live.radio.si/Robin
+#EXTINF:-1 radio="true" tvg-logo="https://v.xdata.si/logo/Radio_Maxi.png" ,Radio Maxi
+http://185.85.150.52:8010/;
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Net_FM.png" ,Radio Net FM
+http://reflector.radionet.si:8000/stream.ogg
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Prlek.png" ,Radio Prlek
+http://89.212.242.158:8000/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Tomi.png" ,Radio Tomi
+http://93.103.130.12/tomi.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.rsg.si/www/wp-content/uploads/2015/01/logo-glava-v5.png" ,Radio Slovenske Gorice
+http://46.105.43.31:8050/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="http://www.murskival.si/wp-content/uploads/2016/04/logo-murski-val.png" ,Radio Murski Val
+http://89.142.197.238:8000/mv.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Triglav.png" ,Radio Triglav
+http://live4.infonetmedia.si/Triglav
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Koroski_Radio.png" ,Koroški Radio
+http://shoutcast.netsi.net:8300/;
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Laser.png ,Radio Laser
+http://188.230.191.221:1234/udp/239.1.2.192:5000
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_94_in_NTR.png" ,Radio 94
+http://212.103.156.222:8000/radio94
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Rogla.png" ,Radio Rogla
+http://193.105.67.24:8010/
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Celje.png" ,Radio Celje
+http://stream.rgl.si/Celje
+#EXTINF:-1 radio="true" tvg-logo="https://v.xdata.si/logo/Radio_Velenje.png" ,Radio Velenje
+http://212.18.39.42:8000/radiovelenje.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Sora.png" ,Radio Sora
+http://radio-sora.si:8000/radio-sora.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Kranj.png" ,Radio Kranj
+http://live.radio-kranj.si/Kranj?1572619570009
+#EXTINF:-1 radio="true" tvg-logo="https://static.tuneyou.com/images/logos/500_500/31/3431/Brezje90.8Radio.png" ,Radio Brezje
+http://93.103.175.209:8000/;
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Krka.png" ,Radio Krka
+http://84.52.138.44/Krka
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Ptuj.png" ,Radio Ptuj
+http://stream.radio-ptuj.si:8000/;stream.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Dur.png" ,Radio Dur
+http://zvok.ragla.si/gr
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Gorenc.png" ,Radio Gorenc
+http://stream.radiogorenc.si:8000/radiogorenc.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Stajerski_val.png" ,Radio Štajerski Val
+http://stream.stajerskival.si:8004/;
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Zeleni_Val.png" ,Radio Zeleni Val
+http://37.187.93.104:8844/stream
+#EXTINF:-1 radio="true" tvg-logo="http://www.cerkno.si/wp-content/uploads/2015/10/novice_2014_primorski_val_nadgradil_svoj_program.jpg" ,Primorski Val
+http://212.44.99.35:8000/stream
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Sraka.png" ,Radio Sraka
+http://193.105.67.24:8006/
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Veseljak.png" ,Radio Veseljak
+http://stream.radioveseljak.si/Veseljak
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Narodnjak.png" ,Radio Narodnjak
+http://89.233.121.131:8000/live
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Student.png" ,Radio Študent
+http://kruljo.radiostudent.si:8000/midq
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Mars.png" ,Radio Marš
+http://frekvenca.eu:8000/radiomars.mp3
+#EXTINF:-1 radio="true" tvg-logo="http://radiozica.eu/wp-content/uploads/sites/3/2013/03/logo-zica-web-header2.png" ,Radio Žica
+http://live.1chi.si/zica?1572717533634
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Vrabcek.png" ,Radio Vrabček
+http://live.1chi.si/vrabcek?1572716873568
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-Mister-Deejay.jpg" ,Radio Mister DeeJay
+http://stream.mister-deejay.com:9010/;
+#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Ognjisce.png" ,Radio Ognjišče
+http://real.ognjisce.si:8000/ognjisce.mp3
