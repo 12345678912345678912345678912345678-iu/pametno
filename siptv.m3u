@@ -49,6 +49,8 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hbo3hd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="TV1000.svn" group-title="Channels" User-Agent="AppleCoreMedia,TV 1000
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tv10002.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="TV1000.svn" group-title="Channels" User-Agent="AppleCoreMedia,TV 1000 test2
+https://streamer12.xploretv.si/session/$h1.0$default/qdcnm4/__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_TV1000_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="AMC.svn" group-title="Channels" User-Agent="AppleCoreMedia,AMC
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/amchd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Movies
