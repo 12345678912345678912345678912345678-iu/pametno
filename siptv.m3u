@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0 tvg-id="PopTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Pop TV v2
 https://streamer02.xploretv.si/session/$h1.0$default/qdcnm4/__cl/cg:prod/__c/A1_SI_POPTVHD_ott/__op/dash-default/__dci/A1_SI_POPTVHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planettvhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETTVHD_ott/__op/dash-default/__dci/A1_SI_PLANETTVHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="TV3Medias.svn" group-title="Channels" User-Agent="AppleCoreMedia,TV3 Medias
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tv3hd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="POPBrio.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP BRIO
