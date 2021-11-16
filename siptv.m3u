@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 1
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo1hd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 1
-https://30-rtvslo-tv-slo1-slo.cdn.eurovisioncdn.net/playlist.m3u8
+https://di-br2e5p7r.a.eurovisionflow.net/slo1_slo/slo1-abr_slo.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 2
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo2hd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 2
