@@ -299,14 +299,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Redbull TV[HD] 1080p
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0, tvg-id="TVCarli.svn",ČARLI TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/carli.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="GolicaTV.svn",TV GOLICA
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/golica.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="TVVeseljak.svn",TV VESELJAK
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/veseljak.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="TVPetelin.svn",TV PETELIN
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/petelin.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="DMSat.svn",DM SAT
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dmsat.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="CMC.svn",CMC
