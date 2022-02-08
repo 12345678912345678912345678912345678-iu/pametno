@@ -289,10 +289,6 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/nickelodeon.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="DuckTV.hr",DUCK TV
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ducktv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,MTV Channel
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,MTV Channel[HD] 720p
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, tvg-id="MTV.svn",MTV ADRIA
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtv.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="MTVLive.svn",MTV LIVEHD
