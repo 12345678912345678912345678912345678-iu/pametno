@@ -139,8 +139,6 @@ http://91.126.141.201:1935/live/eurosport2hdnntv/master.m3u8
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dsf2.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Extreme",EXTREME
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/extreme2.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",OUTDOOR CHANNEL
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/outdoorhd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="",MOTORVISION
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/motorvisionhd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="RTS Maribor",RTS
