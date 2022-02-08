@@ -313,10 +313,8 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cmc.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Jugoton.svn",JUGOTON
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/jugoton.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",MTV 2
+#EXTINF:0, tvg-id="MTVRocks.svn",MTV 90s
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_MTV2_ott/__op/dash-default/__dci/A1_SI_MTV2_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="MTVRocks.svn",MTV ROCKS
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvrocks.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="MTVHits.svn",MTV HITS
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvhits.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="MTVDance.svn",MTV DANCE
