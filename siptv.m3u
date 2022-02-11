@@ -525,3 +525,5 @@ http://live.1chi.si/vrabcek?1572716873568
 http://stream.mister-deejay.com:9010/;
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Ognjisce.png" ,Radio Ognjišče
 http://real.ognjisce.si:8000/ognjisce.mp3
+#EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV sd 1-2
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planettv.m3u8
