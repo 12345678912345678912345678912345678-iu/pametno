@@ -40,11 +40,11 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0 tvg-id="Cinemax2.svn", CINEMAX 2
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinemax2hd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="HBO.svn", HBO
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hbohd.m3u8|User-Agent="AppleCoreMedia
+https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/A1_SI_HBOHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO2.svn", HBO 2
 https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/A1_SI_HBOCOMEDYHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO3hd.svn", HBO 3
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hbo3hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/A1_SI_HBO3HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="TV1000.svn" group-title="Channels" User-Agent="AppleCoreMedia,TV 1000
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tv10002.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="AMC.svn" group-title="Channels" User-Agent="AppleCoreMedia,AMC
@@ -197,8 +197,6 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 http://195.29.70.82/PLTV/88888888/224/3221226195/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
 #EXTINF:0, tvg-id="RTL2televizija.svn",RTLHRVATSKA 2
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtlhrvatska2.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,NB Comedy Channel
-http://195.29.70.82/PLTV/88888888/224/3221226407/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
 #EXTINF:0, tvg-id="RTS1Srbija.svn",RT SRBIJE
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtsrbije.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="RTCrnaGora.svn",RTCG
