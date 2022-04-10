@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="History Channel HD",HISTORY
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/historyhd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Viasat History",VIASAT HISTORY
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/viasathistory2.m3u8|User-Agent="AppleCoreMedia
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_VIASATHISTORYHD_ott/__op/dash-default/__dci/A1_SI_VIASATHISTORYHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Viasat Explorer",VIASAT EXPLORE
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/explorer2.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Da Vinci Learning",DAVINCI LEARNING
