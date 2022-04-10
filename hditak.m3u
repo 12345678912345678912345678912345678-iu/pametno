@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0 tvg-id="Cinemax 2 HD", CINEMAX 2
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinemax2hd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="HBO HD", HBO
-https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/A1_SI_HBOHD_ott/__f/manifest.m3u8
+https://streamer11.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/A1_SI_HBOHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO 2 HD", HBO 2
 https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/A1_SI_HBOCOMEDYHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO 3 HD", HBO 3
@@ -92,11 +92,11 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="Animal Planet HD",ANIMAL PLANET HD
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/animalhd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Discovery Channel",DISCOVERY CHANNEL
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/discovery2.m3u8|User-Agent="AppleCoreMedia
+https://streamer02.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCOVERYCHHD_ott/__op/dash-default/__dci/A1_SI_DISCOVERYCHHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Discovery Showcase HD",DISCOVERY SHOWCASE
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/showcasehd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="ID Xtra",Discovery ID Xtra
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/discidx2.m3u8|User-Agent="AppleCoreMedia
+https://streamer02.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCIDXHD_ott/__op/dash-default/__dci/A1_SI_DISCIDXHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Travel Channel HD",TRAVEL
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/travelhd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Discovery Science",DISCOVERY SCIENCE
@@ -174,11 +174,11 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="TV Exodus HD",EXODUS TV
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/exodus.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="HRT 1",HRT1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hrt1v2.m3u8|User-Agent="AppleCoreMedia
+https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HRT1HD_ott/__op/dash-default/__dci/A1_SI_HRT1HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="HRT 1",HRT 1 HD
 http://195.29.70.82/PLTV/88888888/224/3221226139/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
 #EXTINF:0, tvg-id="HRT 2",HRT2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hrt2v2.m3u8|User-Agent="AppleCoreMedia
+https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HRT2HD_ott/__op/dash-default/__dci/A1_SI_HRT2HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="HRT 2",HRT 2 HD
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
 #EXTINF:0, tvg-id="HRT 3",HRT3
