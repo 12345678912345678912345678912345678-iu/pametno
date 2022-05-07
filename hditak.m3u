@@ -270,7 +270,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="Cartoon Network",CARTOON NETWORK
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cartoon.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Baby TV",BABY TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/babytv.m3u8|User-Agent="AppleCoreMedia
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BABYTV_ott/__op/dash-default/__dci/A1_SI_BABYTV_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Super RTL",SUPER RTL
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/superrtl.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Minimax",MINIMAX
