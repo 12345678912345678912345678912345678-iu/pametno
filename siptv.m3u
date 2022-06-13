@@ -246,15 +246,15 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:0, tvg-id="RTLNEMCIJA.svn",RTL
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtl.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="RTL2NEMCIJA.svn",RTL2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtl2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_RTL2_ott/__op/dash-default/__dci/A1_SI_RTL2_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Pro7.svn",PRO7
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/pro7.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PRO7_ott/__op/dash-default/__dci/A1_SI_PRO7_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Kabel1.svn",KABEL1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/kabel1.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_KABEL1_ott/__op/dash-default/__dci/A1_SI_KABEL1_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="SAT1.svn",SAT1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/sat1.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SAT1_ott/__op/dash-default/__dci/A1_SI_SAT1_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="VOX.svn",VOX
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vox.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_VOX_ott/__op/dash-default/__dci/A1_SI_VOX_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="E.svn",E!
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/e.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="FashionTV.svn",FASHION TV
