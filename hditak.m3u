@@ -116,11 +116,11 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="TLC",TLC
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCTLCHD_ott/__op/dash-default/__dci/A1_SI_DISCTLCHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="CBS Reality",CBS REALITY
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cbsreality2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_REALITY_ott/__op/dash-default/__dci/A1_SI_REALITY_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Woman HD",WOMAN
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/woman2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_WOMANHD_ott/__op/dash-default/__dci/A1_SI_WOMANHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Dr. Fit HD",DRFIT
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/drfit2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DRFITHD_ott/__op/dash-default/__dci/A1_SI_DRFITHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Šport TV 1 HD",SPORT TV 1
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTVHD_ott/__op/dash-default/__dci/A1_SI_SPORTTVHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Šport TV 2 HD",SPORT TV 2
