@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="",EPIC DRAMA
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EPICDRAMAHD_ott/__op/dash-default/__dci/A1_SI_EPICDRAMAHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Gold TV",Gold TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/goldtv2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_GOLDTV_ott/__op/dash-default/__dci/A1_SI_GOLDTV_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Nova 24 TV HD",NOVA 24 TV
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/nova24tv2.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="AXN",AXN
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="BBC First",BBC FIRST
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bbcfirsthd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Epic Drama",EPIC DRAMA
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/epicdrama2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EPICDRAMAHD_ott/__op/dash-default/__dci/A1_SI_EPICDRAMAHD_ott/__f/manifest.m3u8
 #EXTINF:0,EUROCHANNEL
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurochannelhd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="BBC Earth",BBC EARTH
@@ -88,7 +88,7 @@ https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETEARTHD_ott/__
 #EXTINF:0, tvg-id="National Geographic HD",NATIONAL GEOGRAPHIC
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NATGEOHD_ott/__op/dash-default/__dci/A1_SI_NATGEOHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="National Geographic Wild HD",NATIONAL GEOGRAPHIC WILD
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/natgeowhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NATGEOWHD_ott/__op/dash-default/__dci/A1_SI_NATGEOWHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Animal Planet HD",ANIMAL PLANET
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/animal2.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Animal Planet HD",ANIMAL PLANET HD
@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="24Kitchen Adria HD",24 KITCHEN
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/24kitchenhd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="TLC",TLC
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tlc2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCTLCHD_ott/__op/dash-default/__dci/A1_SI_DISCTLCHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="CBS Reality",CBS REALITY
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cbsreality2.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="Woman HD",WOMAN
