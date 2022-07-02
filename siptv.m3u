@@ -114,13 +114,13 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0 tvg-id="24Kitchen.svn" group-title="Channels" User-Agent="AppleCoreMedia,24 KITCHEN
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/24kitchenhd.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="TLC.svn" group-title="Channels" User-Agent="AppleCoreMedia,TLC
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tlc2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCTLCHD_ott/__op/dash-default/__dci/A1_SI_DISCTLCHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="CBSreality.svn",CBS REALITY
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cbsreality2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_REALITY_ott/__op/dash-default/__dci/A1_SI_REALITY_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Woman.svn",WOMAN
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/woman2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_WOMANHD_ott/__op/dash-default/__dci/A1_SI_WOMANHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="DrFit.svn",DRFIT
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/drfit2.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DRFITHD_ott/__op/dash-default/__dci/A1_SI_DRFITHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="SportTV1.svn",SPORT TV 1
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTVHD_ott/__op/dash-default/__dci/A1_SI_SPORTTVHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="SportTV2.svn",SPORT TV 2
