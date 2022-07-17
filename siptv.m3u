@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo1hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/A1_SI_SLO1HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 1
 https://di-br2e5p7r.a.eurovisionflow.net/slo1_slo/slo1-abr_slo.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo2hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/A1_SI_SLO2HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 2
 https://20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-id="Slo3.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 3
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo3hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/A1_SI_SLO3HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Slo3.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 3
 https://15-rtvslo-tv-slo3-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-id="TVKoper.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV KOPER
@@ -18,71 +18,71 @@ https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0, RTV MMC
 https://28-rtvslo-tv-mmc-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/akanalhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/A1_SI_AKANALHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="PopTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Pop TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/poptvhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_POPTVHD_ott/__op/dash-default/__dci/A1_SI_POPTVHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETTVHD_ott/__op/dash-default/__dci/A1_SI_PLANETTVHD_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETTVHD_ott/__op/dash-default/__dci/A1_SI_PLANETTVHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="POPBrio.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP BRIO
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/briohd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BRIOHD_ott/__op/dash-default/__dci/A1_SI_BRIOHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOX.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOX_ott/__op/dash-default/__dci/A1_SI_FOX_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXLife.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Life
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxlifehd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXLIFE_ott/__op/dash-default/__dci/A1_SI_FOXLIFE_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXCrime.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Crime
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxcrimehd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXCRIME_ott/__op/dash-default/__dci/A1_SI_FOXCRIME_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CineStarTV.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestartv2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARTV_ott/__op/dash-default/__dci/A1_SI_CINESTARTV_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CinestarComedy.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV Comedy
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestartvcomedy2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARFAMILY_ott/__op/dash-default/__dci/A1_SI_CINESTARFAMILY_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Cinemax1.svn", CINEMAX
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinemaxhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINEMAXHD_ott/__op/dash-default/__dci/A1_SI_CINEMAXHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Cinemax2.svn", CINEMAX 2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinemax2hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINEMAXHD2_ott/__op/dash-default/__dci/A1_SI_CINEMAXHD2_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO.svn", HBO
-https://streamer11.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/A1_SI_HBOHD_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/A1_SI_HBOHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO2.svn", HBO 2
-https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/A1_SI_HBOCOMEDYHD_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/A1_SI_HBOCOMEDYHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO3hd.svn", HBO 3
-https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/A1_SI_HBO3HD_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/A1_SI_HBO3HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="TV1000.svn" group-title="Channels" User-Agent="AppleCoreMedia,TV 1000
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_TV1000_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_TV1000_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="AMC.svn" group-title="Channels" User-Agent="AppleCoreMedia,AMC
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/amchd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AMCHD_ott/__op/dash-default/__dci/A1_SI_AMCHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Movies
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/foxmovieshd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXMOVIES_ott/__op/dash-default/__dci/A1_SI_FOXMOVIES_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CinestarPremiere1.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestarpr1hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARPR1_ott/__op/dash-default/__dci/A1_SI_CINESTARPR1_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CinestarPremiere2.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cinestarpr2hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARPR2_ott/__op/dash-default/__dci/A1_SI_CINESTARPR2_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="POPKino.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP KINO
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_POPKINOHD_ott/__op/dash-default/__dci/A1_SI_POPKINOHD_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_POPKINOHD_ott/__op/dash-default/__dci/A1_SI_POPKINOHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Pickbox.hr" group-title="Channels" User-Agent="AppleCoreMedia,PICKBOX TV
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PICKBOXTVHD_ott/__op/dash-default/__dci/A1_SI_PICKBOXTVHD_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PICKBOXTVHD_ott/__op/dash-default/__dci/A1_SI_PICKBOXTVHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Diva.svn" group-title="Channels" User-Agent="AppleCoreMedia,DIVA
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/diva2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HALLMARK_ott/__op/dash-default/__dci/A1_SI_HALLMARK_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="KlasikTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,KLASIK TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/klasiktv2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_KLASIKTV_ott/__op/dash-default/__dci/A1_SI_KLASIKTV_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Planet2.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET TV 2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planet2hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANET2HD_ott/__op/dash-default/__dci/A1_SI_PLANET2HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="PlanetPLUS.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET EVA
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planetplushd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETPLUSHD_ott/__op/dash-default/__dci/A1_SI_PLANETPLUSHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="EPICDramaHD.svn" group-title="Channels" User-Agent="AppleCoreMedia,EPIC DRAMA
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EPICDRAMAHD_ott/__op/dash-default/__dci/A1_SI_EPICDRAMAHD_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EPICDRAMAHD_ott/__op/dash-default/__dci/A1_SI_EPICDRAMAHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="GoldTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Gold TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/goldtv2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_GOLDTV_ott/__op/dash-default/__dci/A1_SI_GOLDTV_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="NovaTV24.svn" group-title="Channels" User-Agent="AppleCoreMedia,NOVA 24 TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/nova24tv2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NOVA24TVHD_ott/__op/dash-default/__dci/A1_SI_NOVA24TVHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="AXN.svn" group-title="Channels" User-Agent="AppleCoreMedia,AXN
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/axn.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AXN_ott/__op/dash-default/__dci/A1_SI_AXN_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="AXNSpin.svn" group-title="Channels" User-Agent="AppleCoreMedia,AXN SPIN
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/axnspin2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AXNSPIN_ott/__op/dash-default/__dci/A1_SI_AXNSPIN_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="BBCFirst.svn" group-title="Channels" User-Agent="AppleCoreMedia,BBC FIRST
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bbcfirsthd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BBCFIRSTHD_ott/__op/dash-default/__dci/A1_SI_BBCFIRSTHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Eurochannel.rs" group-title="Channels" User-Agent="AppleCoreMedia,EUROCHANNEL
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurochannelhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROCHANNELHD_ott/__op/dash-default/__dci/A1_SI_EUROCHANNELHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="BBCEarth.svn" group-title="Channels" User-Agent="AppleCoreMedia,BBC EARTH
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bbcearthhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BBCEARTHHD_ott/__op/dash-default/__dci/A1_SI_BBCEARTHHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="PlanetEARTH.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET EARTH
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETEARTHD_ott/__op/dash-default/__dci/A1_SI_PLANETEARTHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="NGC.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATIONAL GEOGRAPHIC
@@ -90,9 +90,9 @@ https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NATGEOHD_ott/__op/d
 #EXTINF:0 tvg-id="NGCwild.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATIONAL GEOGRAPHIC WILD
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NATGEOWHD_ott/__op/dash-default/__dci/A1_SI_NATGEOWHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="AnimalPlanet.svn" group-title="Channels" User-Agent="AppleCoreMedia,ANIMAL PLANET
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/animal2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ANIMAL_ott/__op/dash-default/__dci/A1_SI_ANIMAL_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="AnimalPlanet.svn" group-title="Channels" User-Agent="AppleCoreMedia,ANIMAL PLANET HD
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/animalhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ANIMALHD_ott/__op/dash-default/__dci/A1_SI_ANIMALHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Discovery.svn" group-title="Channels" User-Agent="AppleCoreMedia,DISCOVERY CHANNEL
 https://streamer02.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCOVERYCHHD_ott/__op/dash-default/__dci/A1_SI_HDISCOVERYCHHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="DiscoveryIDXtra.svn" group-title="Channels" User-Agent="AppleCoreMedia,Discovery ID Xtra
@@ -104,15 +104,15 @@ https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_TRAVELHD_ott/__op/d
 #EXTINF:0 tvg-id="ViasatNature.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATURE
 https://streamer11.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_VIANATUREHD_ott/__op/dash-default/__dci/A1_SI_VIANATUREHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HistoryChn.svn" group-title="Channels" User-Agent="AppleCoreMedia,HISTORY
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/historyhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/A1_SI_HISTORYHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="ViasatHistory.svn" group-title="Channels" User-Agent="AppleCoreMedia,VIASAT HISTORY
 https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_VIASATHISTORYHD_ott/__op/dash-default/__dci/A1_SI_VIASATHISTORYHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="ViasatExplorer.svn" group-title="Channels" User-Agent="AppleCoreMedia,VIASAT EXPLORE
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/explorer2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EXPLORER_ott/__op/dash-default/__dci/A1_SI_EXPLORER_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="DaVinciLearning.svn" group-title="Channels" User-Agent="AppleCoreMedia,DAVINCI LEARNING
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/davincilear2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DAVINCILEAR_ott/__op/dash-default/__dci/A1_SI_DAVINCILEAR_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="24Kitchen.svn" group-title="Channels" User-Agent="AppleCoreMedia,24 KITCHEN
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/24kitchenhd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_24KITCHENHD_ott/__op/dash-default/__dci/A1_SI_24KITCHENHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="TLC.svn" group-title="Channels" User-Agent="AppleCoreMedia,TLC
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCTLCHD_ott/__op/dash-default/__dci/A1_SI_DISCTLCHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="CBSreality.svn",CBS REALITY
@@ -128,26 +128,26 @@ https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTV2HD_ott/__op
 #EXTINF:0, tvg-id="SportTV3.svn",SPORT TV 3
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTV3HD_ott/__op/dash-default/__dci/A1_SI_SPORTTV3HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ArenaSport1.svn",ARENASPORT 1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/arenasporthd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT1HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT1HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ArenaSport2.svn",ARENASPORT 2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/arenasport2hd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT2HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT2HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ArenaSport3.hr",ARENASPORT 3
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT3HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT3HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ArenaSport4.hr",ARENASPORT 4
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT4HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT4HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Eurosport1.svn",EUROSPORT 1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurosport.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORT_ott/__op/dash-default/__dci/A1_SI_EUROSPORT_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Eurosport1.svn",EUROSPORT 1 HD
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/eurosporthd.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORTHD_ott/__op/dash-default/__dci/A1_SI_EUROSPORTHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Eurosport2.svn",EUROSPORT 2 HD
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORT2HD_ott/__op/dash-default/__dci/A1_SI_EUROSPORT2HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Sport1HD.de",SPORT1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dsf2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DSF_ott/__op/dash-default/__dci/A1_SI_DSF_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Extreme.svn",EXTREME
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/extreme2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EXTREME_ott/__op/dash-default/__dci/A1_SI_EXTREME_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Motorvision.svn",MOTORVISION
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/motorvisionhd.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RTSMaribor.svn",RTS
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_MOTORVISIONTV_ott/__op/dash-default/__dci/A1_SI_MOTORVISIONTV_ott/__f/manifest.m3u8
+#EXTINF:0, tvg-id="RTSMaribor.svn",RTS MARIBOR
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rts.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="TeleM.svn",TELE M
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/telem.m3u8|User-Agent="AppleCoreMedia
