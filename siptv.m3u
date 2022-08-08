@@ -26,11 +26,11 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETTVHD_ott/__op
 #EXTINF:0 tvg-id="POPBrio.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP BRIO
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BRIOHD_ott/__op/dash-default/__dci/A1_SI_BRIOHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOX.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOX_ott/__op/dash-default/__dci/A1_SI_FOX_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXHD_ott/__op/dash-default/__dci/A1_SI_FOXHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXLife.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Life
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXLIFE_ott/__op/dash-default/__dci/A1_SI_FOXLIFE_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXLIFEHD_ott/__op/dash-default/__dci/A1_SI_FOXLIFEHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXCrime.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Crime
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXCRIME_ott/__op/dash-default/__dci/A1_SI_FOXCRIME_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXCRIMEHD_ott/__op/dash-default/__dci/A1_SI_FOXCRIMEHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CineStarTV.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARTV_ott/__op/dash-default/__dci/A1_SI_CINESTARTV_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CinestarComedy.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV Comedy
@@ -50,7 +50,7 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/das
 #EXTINF:0 tvg-id="AMC.svn" group-title="Channels" User-Agent="AppleCoreMedia,AMC
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AMCHD_ott/__op/dash-default/__dci/A1_SI_AMCHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Movies
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXMOVIES_ott/__op/dash-default/__dci/A1_SI_FOXMOVIES_ott/__f/manifest.m3u8
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXMOVIESHD_ott/__op/dash-default/__dci/A1_SI_FOXMOVIESHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CinestarPremiere1.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARPR1_ott/__op/dash-default/__dci/A1_SI_CINESTARPR1_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CinestarPremiere2.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 2
