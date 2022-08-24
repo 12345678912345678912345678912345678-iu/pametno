@@ -268,25 +268,27 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="ChannelOneRussia.svn",CHANNEL ONE RUSSIA
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/russia1.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="POPOTO.svn",POP OTO
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/oto.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_POPOTOHD_ott/__op/dash-default/__dci/A1_SI_POPOTOHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Boomerang.svn",BOOMERANG
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/boomerang.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BOOMERANG_ott/__op/dash-default/__dci/A1_SI_BOOMERANG_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="CartoonNetwork.svn",CARTOON NETWORK
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cartoon.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/A1_SI_CARTOON_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="BabyTV.svn",BABY TV
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BABYTV_ott/__op/dash-default/__dci/A1_SI_BABYTV_ott/__f/manifest.m3u8
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BABYTV_ott/__op/dash-default/__dci/A1_SI_BABYTV_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="SuperRTL.svn",SUPER RTL
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/superrtl.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SUPERRTL_ott/__op/dash-default/__dci/A1_SI_SUPERRTL_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="MINIMAX.svn",MINIMAX
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/minimax.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_MINIMAX_ott/__op/dash-default/__dci/A1_SI_MINIMAX_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="NickJr.svn",NICK JUNIOR
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/nickjunior.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NICKJR_ott/__op/dash-default/__dci/A1_SI_NICKJR_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="JimJam.svn",JIM JAM
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/jimjam.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_JIMJAM_ott/__op/dash-default/__dci/A1_SI_JIMJAM_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Nickelodeon.svn",NICKELODEON
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/nickelodeon.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NICKELODEON_ott/__op/dash-default/__dci/A1_SI_NICKELODEON_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="DuckTV.hr",DUCK TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ducktv.m3u8|User-Agent="AppleCoreMedia
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DUCKTV_ott/__op/dash-default/__dci/A1_SI_DUCKTV_ott/__f/manifest.m3u8
+#EXTINF:0, tvg-id="",NICKTOONS
+https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NICKTOONS_ott/__op/dash-default/__dci/A1_SI_NICKTOONS_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="MTV.svn",MTV ADRIA
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtv.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="MTVLive.svn",MTV LIVEHD
