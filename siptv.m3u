@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/A1_SI_SLO1HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 1
-https://di-br2e5p7r.a.eurovisionflow.net/slo1_slo/slo1-abr_slo.smil/playlist.m3u8
+https://cdn-live.rtvslo.si/hls/live/2095063/slo1_ott/playlist.m3u8?hdnts=exp=1667068881~acl=*~hmac=95eb77a535873900eb571717b88f09155b5e1ee4bea7c46c89147bec4f19d0bb
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/A1_SI_SLO2HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 2
