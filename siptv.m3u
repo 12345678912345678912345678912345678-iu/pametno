@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/A1_SI_SLO1HD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 1
-https://cdn-live.rtvslo.si/hls/live/2095063/slo1_ott/hdntl=exp=1668362551~acl=%2f*~data=hdntl~hmac=56f003c1b423db4950de80ddb58fab4bb69a7fdd7146d4c0944941513f7a9458/slo1_720p-new.m3u8
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/A1_SI_SLO2HD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 2
-https://20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-id="Slo3.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 3
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/A1_SI_SLO3HD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Slo3.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV SLO 3
-https://15-rtvslo-tv-slo3-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-id="TVKoper.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV KOPER
 https://26-rtvslo-tv-kp-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-id="TeleM.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV MARIBOR
