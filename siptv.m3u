@@ -45,9 +45,9 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/A1_SI_HBOCOMEDYHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO3hd.svn", HBO 3
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/A1_SI_HBO3HD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="TV1000.svn" tvg-name="TV 1000" group-title="Channels" TV 1000
+#EXTINF:-1 tvg-id="TV1000.svn" group-title="Channels" TV 1000
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_TV1000_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="AMC.svn" tvg-name="AMC" group-title="Channels"
+#EXTINF:-1 tvg-id="AMC.svn" group-title="Channels" AMC
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AMCHD_ott/__op/dash-default/__dci/A1_SI_AMCHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Movies
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXMOVIESHD_ott/__op/dash-default/__dci/A1_SI_FOXMOVIESHD_ott/__f/manifest.m3u8
@@ -135,7 +135,7 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT2HD_ott/_
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT3HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT3HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ArenaSport4.svn",ARENASPORT 4
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT4HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT4HD_ott/__f/manifest.m3u8
-#EXTINF:-1, tvg-id="ArenaSportPremium1.rs" Arena Sport Premium 1
+#EXTINF:-1, tvg-id="ArenaSportPremium1.rs" ,Arena Sport Premium 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENAPREMIUMHD_ott/__op/dash-default/__dci/A1_SI_ARENAPREMIUMHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Eurosport1.svn",EUROSPORT 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORTHD_ott/__op/dash-default/__dci/A1_SI_EUROSPORTHD_ott/__f/manifest.m3u8
