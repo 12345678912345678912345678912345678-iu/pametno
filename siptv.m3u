@@ -27,13 +27,13 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXLIFEHD_ott/__op/
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXCRIMEHD_ott/__op/dash-default/__dci/A1_SI_FOXCRIMEHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CineStarTV.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARTV_ott/__op/dash-default/__dci/A1_SI_CINESTARTV_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CinestarComedy.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV Comedy
+#EXTINF:0 tvg-id="CineStarComedyFamily.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV Comedy
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARFAMILY_ott/__op/dash-default/__dci/A1_SI_CINESTARFAMILY_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Cinemax1.svn", CINEMAX
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINEMAXHD_ott/__op/dash-default/__dci/A1_SI_CINEMAXHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Cinemax2.svn", CINEMAX 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINEMAXHD2_ott/__op/dash-default/__dci/A1_SI_CINEMAXHD2_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="HBO.svn", HBO
+#EXTINF:0 tvg-id="HBO.hr", HBO
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/A1_SI_HBOHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="HBO2.svn", HBO 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/A1_SI_HBOCOMEDYHD_ott/__f/manifest.m3u8
