@@ -206,9 +206,9 @@ https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno
 #EXTINF:0, tvg-id="OBN",OBN
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/obn.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="ORF 1",ORF1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/orf1.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ORF1HD_ott/__op/dash-default/__dci/A1_SI_ORF1HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ORF 2",ORF2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/orf2.m3u8|User-Agent="AppleCoreMedia
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ORF2HD_ott/__op/dash-default/__dci/A1_SI_ORF2HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ARD",ARD
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ard.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0, tvg-id="ZDF HD",ZDF
