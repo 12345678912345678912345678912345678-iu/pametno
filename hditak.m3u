@@ -1,22 +1,12 @@
 #EXTM3U url-tvg="http://freeweb.t-2.net/itak/epg_b.xml.gz" 
 #EXTINF:0, tvg-id="SLO 1 HD", SLO 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/A1_SI_SLO1HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="SLO 1 HD", RTV SLO 1
-https://cdn-live.rtvslo.si/hls/live/2095063/slo1_ott/playlist.m3u8?hdnts=exp=1667068881~acl=*~hmac=95eb77a535873900eb571717b88f09155b5e1ee4bea7c46c89147bec4f19d0bb
 #EXTINF:0, tvg-id="SLO 2 HD", SLO 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/A1_SI_SLO2HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="SLO 2 HD", RTV SLO 2
-https://20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:0, tvg-id="SLO 2 HD", SLO 2 720p
+https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo2.m3u8
 #EXTINF:0, tvg-id="SLO 3", SLO 3
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/A1_SI_SLO3HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="SLO 3", RTV SLO 3
-https://15-rtvslo-tv-slo3-slo.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:0, tvg-id="TV Koper", RTV KOPER
-https://26-rtvslo-tv-kp-slo.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:0, tvg-id="Tele M", RTV MARIBOR
-https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:0, RTV MMC
-https://28-rtvslo-tv-mmc-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0, tvg-id="Kanal A HD", Kanal A
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/A1_SI_AKANALHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="POP TV HD", Pop TV
@@ -131,9 +121,9 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT2HD_ott/_
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT3HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT3HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ArenaSport 4",ARENASPORT 4
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT4HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT4HD_ott/__f/manifest.m3u8
+#EXTINF:0, tvg-id="ArenaSpPr1",ARENASPORT 1 PREMIUM
+https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENAPREMIUMHD_ott/__op/dash-default/__dci/A1_SI_ARENAPREMIUMHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Eurosport",EUROSPORT 1
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORT_ott/__op/dash-default/__dci/A1_SI_EUROSPORT_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Eurosport",EUROSPORT 1 HD
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORTHD_ott/__op/dash-default/__dci/A1_SI_EUROSPORTHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Eurosport 2",EUROSPORT 2
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORT2HD_ott/__op/dash-default/__dci/A1_SI_EUROSPORT2HD_ott/__f/manifest.m3u8
