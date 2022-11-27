@@ -5,12 +5,6 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/das
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/A1_SI_SLO2HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="Slo3.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 3
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/A1_SI_SLO3HD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="TVKoper.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV KOPER
-https://26-rtvslo-tv-kp-slo.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:0 tvg-id="TeleM.svn" group-title="Channels" User-Agent="AppleCoreMedia,RTV MARIBOR
-https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:0, RTV MMC
-https://28-rtvslo-tv-mmc-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/A1_SI_AKANALHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="PopTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Pop TV
@@ -523,5 +517,7 @@ http://real.ognjisce.si:8000/ognjisce.mp3
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planettv.m3u8
 #EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV 720p
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planettv720p.m3u8
-#EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV 720p only
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planettv720ponly.m3u8
+#EXTINF:0 tvg-id="HRT1.svn" group-title="Channels" User-Agent="AppleCoreMedia,HRT1
+https://cdn1-hrt.cdn.eurovisioncdn.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
+#EXTINF:0 tvg-id="HRT1.svn" group-title="Channels" User-Agent="AppleCoreMedia,HRT1
+https://cdn1-hrt.cdn.eurovisioncdn.net/hrtliveorigin/hrt1.smil/1/manifest.mpd?DVR
