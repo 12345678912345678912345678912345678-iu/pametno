@@ -19,29 +19,29 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXHD_ott/__op/dash
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXLIFEHD_ott/__op/dash-default/__dci/A1_SI_FOXLIFEHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXCrime.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Crime
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXCRIMEHD_ott/__op/dash-default/__dci/A1_SI_FOXCRIMEHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CineStarTV1.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
+#EXTINF:0 tvg-id="CinestarTV.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARTV_ott/__op/dash-default/__dci/A1_SI_CINESTARTV_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="CinestarComedy.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV Comedy
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARFAMILY_ott/__op/dash-default/__dci/A1_SI_CINESTARFAMILY_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Cinemax1.svn", CINEMAX
+#EXTINF:0 tvg-id="Cinemax1.rs", CINEMAX
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINEMAXHD_ott/__op/dash-default/__dci/A1_SI_CINEMAXHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Cinemax2.svn", CINEMAX 2
+#EXTINF:0 tvg-id="Cinemax2.rs", CINEMAX 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINEMAXHD2_ott/__op/dash-default/__dci/A1_SI_CINEMAXHD2_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="HBO.svn", HBO
+#EXTINF:0 tvg-id="HBO.hr", HBO
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/A1_SI_HBOHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="HBO2.svn", HBO 2
+#EXTINF:0 tvg-id="HBOComedy.hr", HBO 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/A1_SI_HBOCOMEDYHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="HBO3hd.svn", HBO 3
+#EXTINF:0 tvg-id="HBO3.hr", HBO 3
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/A1_SI_HBO3HD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="TV1000.svn", TV 1000
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_TV1000_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="AMC.svn", AMC
+#EXTINF:0 tvg-id="AMC.rs", AMC
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AMCHD_ott/__op/dash-default/__dci/A1_SI_AMCHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Movies
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXMOVIESHD_ott/__op/dash-default/__dci/A1_SI_FOXMOVIESHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CinestarPremiere1.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 1
+#EXTINF:0 tvg-id="CinestarPremiere1.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARPR1_ott/__op/dash-default/__dci/A1_SI_CINESTARPR1_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CinestarPremiere2.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 2
+#EXTINF:0 tvg-id="CinestarPremiere2.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARPR2_ott/__op/dash-default/__dci/A1_SI_CINESTARPR2_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="POPKino.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP KINO
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_POPKINOHD_ott/__op/dash-default/__dci/A1_SI_POPKINOHD_ott/__f/manifest.m3u8
@@ -71,7 +71,7 @@ https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BBCFIRSTHD_ott/__op
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROCHANNELHD_ott/__op/dash-default/__dci/A1_SI_EUROCHANNELHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="BBCEarth.svn" group-title="Channels" User-Agent="AppleCoreMedia,BBC EARTH
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BBCEARTHHD_ott/__op/dash-default/__dci/A1_SI_BBCEARTHHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="PlanetEARTH.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET EARTH
+#EXTINF:0 tvg-id="PlanetEarth.hr" group-title="Channels" User-Agent="AppleCoreMedia,PLANET EARTH
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETEARTHD_ott/__op/dash-default/__dci/A1_SI_PLANETEARTHD_ott/__f/manifest.m3u8
 #EXTINF:0 tvg-id="NGC.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATIONAL GEOGRAPHIC
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NATGEOHD_ott/__op/dash-default/__dci/A1_SI_NATGEOHD_ott/__f/manifest.m3u8
@@ -107,25 +107,25 @@ https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_REALITY_ott/__op/da
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_WOMANHD_ott/__op/dash-default/__dci/A1_SI_WOMANHD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="DrFit.svn",DRFIT
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DRFITHD_ott/__op/dash-default/__dci/A1_SI_DRFITHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="SPORTTV1.svn",SPORT TV 1
+#EXTINF:0, tvg-id="ŠportTV1.svn",ŠPORT TV 1
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTVHD_ott/__op/dash-default/__dci/A1_SI_SPORTTVHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="SportTV2.svn",SPORT TV 2
+#EXTINF:0, tvg-id="ŠportTV2.svn",ŠPORT TV 2
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTV2HD_ott/__op/dash-default/__dci/A1_SI_SPORTTV2HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="sporttv3.svn",SPORT TV 3
+#EXTINF:0, tvg-id="ŠportTV3.svn",ŠPORT TV 3
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTV3HD_ott/__op/dash-default/__dci/A1_SI_SPORTTV3HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ArenaSport1.svn",ARENASPORT 1
+#EXTINF:0, tvg-id="ArenaSport1.ba",ARENASPORT 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT1HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT1HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ArenaSport2.svn",ARENASPORT 2
+#EXTINF:0, tvg-id="ArenaSport2.rs",ARENASPORT 2
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT2HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT2HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ArenaSport3.svn",ARENASPORT 3
+#EXTINF:0, tvg-id="ArenaSport3.hr",ARENASPORT 3
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT3HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT3HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="ArenaSport4.svn",ARENASPORT 4
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT4HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT4HD_ott/__f/manifest.m3u8
 #EXTINF:-1, tvg-id="ArenaSportPremium1.rs" ,Arena Sport Premium 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENAPREMIUMHD_ott/__op/dash-default/__dci/A1_SI_ARENAPREMIUMHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Eurosport1.svn",EUROSPORT 1
+#EXTINF:0, tvg-id="Eurosport1.hr",EUROSPORT 1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORTHD_ott/__op/dash-default/__dci/A1_SI_EUROSPORTHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Eurosport2.svn",EUROSPORT 2
+#EXTINF:0, tvg-id="Eurosport2.hr",EUROSPORT 2
 https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORT2HD_ott/__op/dash-default/__dci/A1_SI_EUROSPORT2HD_ott/__f/manifest.m3u8
 #EXTINF:0, tvg-id="Sport1HD.de",SPORT1
 https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DSF_ott/__op/dash-default/__dci/A1_SI_DSF_ott/__f/manifest.m3u8
