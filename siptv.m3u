@@ -521,15 +521,3 @@ https://cdn1-hrt.cdn.eurovisioncdn.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
 https://cdn1-hrt.cdn.eurovisioncdn.net/hrtliveorigin/hrt1.smil/1/manifest.m3u8
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 2 720p forced
 https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo2.m3u8
-#EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A brezt mpd
-https://streamer01.xploretv.si/session/e51dd1d8-7d59-11ed-b6da-005056ae5688$h1.0$default/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/drm-dash/__dci/A1_SI_AKANALHD_ott/__f/manifest.mpd
-#EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A tok mpd
-https://streamer01.xploretv.si/session/e51dd1d8-7d59-11ed-b6da-005056ae5688$h1.0$default/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/drm-dash/__dci/A1_SI_AKANALHD_ott/__f/manifest.mpd?token=74428416f4c1098251c4b847677b1d65_1671292456_1671292456
-#EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A tok m3
-https://streamer01.xploretv.si/session/e51dd1d8-7d59-11ed-b6da-005056ae5688$h1.0$default/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/drm-dash/__dci/A1_SI_AKANALHD_ott/__f/manifest.m3u8?token=74428416f4c1098251c4b847677b1d65_1671292456_1671292456
-#EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A brezt m3
-https://streamer01.xploretv.si/session/e51dd1d8-7d59-11ed-b6da-005056ae5688$h1.0$default/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/drm-dash/__dci/A1_SI_AKANALHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A brezses m3
-https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/drm-dash/__dci/A1_SI_AKANALHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A brezses mpd
-https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/drm-dash/__dci/A1_SI_AKANALHD_ott/__f/manifest.mpd
