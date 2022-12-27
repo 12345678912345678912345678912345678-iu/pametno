@@ -5,17 +5,17 @@ http://z.4a.si:80/rtv.php?kanal=tv.slo1
 http://z.4a.si:80/rtv.php?kanal=tv.slo2
 #EXTINF:0, tvg-id="SLO 3", SLO 3
 http://z.4a.si:80/rtv.php?kanal=tv.slo3
-#EXTINF:-1 group-title="Slovenski" tvg-id="N1 Slovenija" tvg-name="N1 Slovenija" tvg-logo="/storage/emulated/0/.LOGO/N1_Slovenija.png",N1 Slovenija
+#EXTINF:-1 tvg-id="N1 Slovenija" tvg-name="N1 Slovenija",N1 Slovenija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1slv&u=n1info&p=n1Sh4redSecre7iNf0&player=http
-#EXTINF:-1 group-title="Balkanski" tvg-id="N1 Srbija" tvg-name="N1 Srbija" tvg-logo="/storage/emulated/0/.LOGO/N1_Srbija.png",N1 Srbija
+#EXTINF:-1 tvg-id="N1 Srbija" tvg-name="N1 Srbija",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=http
-#EXTINF:-1 group-title="Balkanski" tvg-id="N1 Hrvaška" tvg-name="N1 Hrvaška" tvg-logo="/storage/emulated/0/.LOGO/N1_Hrvaska.png",N1 Hrvaška
+#EXTINF:-1 tvg-id="N1 Hrvaška" tvg-name="N1 Hrvaška",N1 Hrvaška
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=http
-#EXTINF:-1 group-title="Balkanski" tvg-id="N1 BiH" tvg-name="N1 BiH" tvg-logo="/storage/emulated/0/.LOGO/N1_BiH.png",N1 BiH
+#EXTINF:-1 tvg-id="N1 BiH" tvg-name="N1 BiH",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=http
-#EXTINF:-1 group-title="Balkanski" tvg-id="EuroNews" tvg-name="EuroNews" tvg-logo="/storage/emulated/0/.LOGO/EuroNews.png",EuroNews Srbija
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews",EuroNews Srbija
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1302619168_b6256000.m3u8
-#EXTINF:-1 group-title="Informativni" tvg-id="RT" tvg-name="RT" tvg-logo="/storage/emulated/0/.LOGO/RT.png",RT
+#EXTINF:-1 tvg-id="RT" tvg-name="RT",RT
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/chunklist_b4128000.m3u8
 #EXTINF:0, tvg-id="Al Jazeera Balkans",AL JAZEERA BALKANS HD
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
@@ -67,18 +67,6 @@ http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1,TV Partizan HD
 http://212.200.102.3:5000/udp/239.99.99.99:23999
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Slovenija_1.png" ,Radio Slovenija 1
-https://34-rtvslo-ra-ra1.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Val_202.png" ,Val 202
-https://19-rtvslo-ra-val202.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/ARS.png" ,ARS
-https://35-rtvslo-ra-ars.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Slovenia_International.png" ,Radio Slovenia International
-https://40-rtvslo-ra-rsi.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Maribor.png" ,Radio Maribor
-https://39-rtvslo-ra-ramb.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Koper.png" ,Radio Koper
-https://38-rtvslo-ra-rakp.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual
 http://stream.radioaktual.si/Aktual
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual Dalmacija
