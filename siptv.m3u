@@ -1,380 +1,48 @@
 #EXTM3U
 #EXTINF:0 tvg-id="Slo1.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 1
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/A1_SI_SLO1HD_ott/__f/manifest.m3u8
+http://z.4a.si:80/rtv.php?kanal=tv.slo1
 #EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 2
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/A1_SI_SLO2HD_ott/__f/manifest.m3u8
+http://z.4a.si:80/rtv.php?kanal=tv.slo2
 #EXTINF:0 tvg-id="Slo3.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 3
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/A1_SI_SLO3HD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="KanalA.svn" group-title="Channels" User-Agent="AppleCoreMedia,Kanal A
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/A1_SI_AKANALHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="PopTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Pop TV
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_POPTVHD_ott/__op/dash-default/__dci/A1_SI_POPTVHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETTVHD_ott/__op/dash-default/__dci/A1_SI_PLANETTVHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="POPBrio.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP BRIO
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BRIOHD_ott/__op/dash-default/__dci/A1_SI_BRIOHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="FOX.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXHD_ott/__op/dash-default/__dci/A1_SI_FOXHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="FOXLife.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Life
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXLIFEHD_ott/__op/dash-default/__dci/A1_SI_FOXLIFEHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="FOXCrime.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Crime
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXCRIMEHD_ott/__op/dash-default/__dci/A1_SI_FOXCRIMEHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CinestarTV.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARTV_ott/__op/dash-default/__dci/A1_SI_CINESTARTV_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CinestarComedy.svn" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar TV Comedy
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARFAMILY_ott/__op/dash-default/__dci/A1_SI_CINESTARFAMILY_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Cinemax1.rs", CINEMAX
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINEMAXHD_ott/__op/dash-default/__dci/A1_SI_CINEMAXHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Cinemax2.rs", CINEMAX 2
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINEMAXHD2_ott/__op/dash-default/__dci/A1_SI_CINEMAXHD2_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="HBO.hr", HBO
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/A1_SI_HBOHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="HBOComedy.hr", HBO 2
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/A1_SI_HBOCOMEDYHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="HBO3.hr", HBO 3
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/A1_SI_HBO3HD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="TV1000.svn", TV 1000
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_TV1000_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="AMC.rs", AMC
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AMCHD_ott/__op/dash-default/__dci/A1_SI_AMCHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels" User-Agent="AppleCoreMedia,FOX Movies
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_FOXMOVIESHD_ott/__op/dash-default/__dci/A1_SI_FOXMOVIESHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CinestarPremiere1.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 1
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARPR1_ott/__op/dash-default/__dci/A1_SI_CINESTARPR1_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CinestarPremiere2.hr" group-title="Channels" User-Agent="AppleCoreMedia,Cinestar Premiere 2
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CINESTARPR2_ott/__op/dash-default/__dci/A1_SI_CINESTARPR2_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="POPKino.svn" group-title="Channels" User-Agent="AppleCoreMedia,POP KINO
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_POPKINOHD_ott/__op/dash-default/__dci/A1_SI_POPKINOHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Pickbox.hr" group-title="Channels" User-Agent="AppleCoreMedia,PICKBOX TV
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PICKBOXTVHD_ott/__op/dash-default/__dci/A1_SI_PICKBOXTVHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Diva.svn" group-title="Channels" User-Agent="AppleCoreMedia,DIVA
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HALLMARK_ott/__op/dash-default/__dci/A1_SI_HALLMARK_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="KlasikTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,KLASIK TV
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_KLASIKTV_ott/__op/dash-default/__dci/A1_SI_KLASIKTV_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Planet2.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET TV 2
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANET2HD_ott/__op/dash-default/__dci/A1_SI_PLANET2HD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="PlanetPLUS.svn" group-title="Channels" User-Agent="AppleCoreMedia,PLANET EVA
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETPLUSHD_ott/__op/dash-default/__dci/A1_SI_PLANETPLUSHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="EPICDramaHD.svn" group-title="Channels" User-Agent="AppleCoreMedia,EPIC DRAMA
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EPICDRAMAHD_ott/__op/dash-default/__dci/A1_SI_EPICDRAMAHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="GoldTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Gold TV
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_GOLDTV_ott/__op/dash-default/__dci/A1_SI_GOLDTV_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="NovaTV24.svn" group-title="Channels" User-Agent="AppleCoreMedia,NOVA 24 TV
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NOVA24TVHD_ott/__op/dash-default/__dci/A1_SI_NOVA24TVHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="AXN.svn" group-title="Channels" User-Agent="AppleCoreMedia,AXN
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AXN_ott/__op/dash-default/__dci/A1_SI_AXN_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="AXNSpin.svn" group-title="Channels" User-Agent="AppleCoreMedia,AXN SPIN
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AXNSPIN_ott/__op/dash-default/__dci/A1_SI_AXNSPIN_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="BBCFirst.svn" group-title="Channels" User-Agent="AppleCoreMedia,BBC FIRST
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BBCFIRSTHD_ott/__op/dash-default/__dci/A1_SI_BBCFIRSTHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Eurochannel.rs" group-title="Channels" User-Agent="AppleCoreMedia,EUROCHANNEL
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROCHANNELHD_ott/__op/dash-default/__dci/A1_SI_EUROCHANNELHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="BBCEarth.svn" group-title="Channels" User-Agent="AppleCoreMedia,BBC EARTH
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BBCEARTHHD_ott/__op/dash-default/__dci/A1_SI_BBCEARTHHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="PlanetEarth.hr" group-title="Channels" User-Agent="AppleCoreMedia,PLANET EARTH
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PLANETEARTHD_ott/__op/dash-default/__dci/A1_SI_PLANETEARTHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="NGC.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATIONAL GEOGRAPHIC
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NATGEOHD_ott/__op/dash-default/__dci/A1_SI_NATGEOHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="NGCwild.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATIONAL GEOGRAPHIC WILD
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NATGEOWHD_ott/__op/dash-default/__dci/A1_SI_NATGEOWHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.svn" group-title="Channels" User-Agent="AppleCoreMedia,ANIMAL PLANET
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ANIMALHD_ott/__op/dash-default/__dci/A1_SI_ANIMALHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="Discovery.svn" group-title="Channels" User-Agent="AppleCoreMedia,DISCOVERY CHANNEL
-https://streamer02.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCOVERYCHHD_ott/__op/dash-default/__dci/A1_SI_HDISCOVERYCHHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="DiscoveryIDXtra.svn" group-title="Channels" User-Agent="AppleCoreMedia,Discovery ID Xtra
-https://streamer02.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCIDXHD_ott/__op/dash-default/__dci/A1_SI_DISCIDXHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="CrimeInvestigation.svn" group-title="Channels" User-Agent="AppleCoreMedia,CRIME INVESTIGATION
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CRIMEINVESTIGATION_ott/__op/dash-default/__dci/A1_SI_CRIMEINVESTIGATION_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="TravelChannel.svn" group-title="Channels" User-Agent="AppleCoreMedia,TRAVEL
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_TRAVELHD_ott/__op/dash-default/__dci/A1_SI_TRAVELHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="ViasatNature.svn" group-title="Channels" User-Agent="AppleCoreMedia,NATURE
-https://streamer11.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_VIANATUREHD_ott/__op/dash-default/__dci/A1_SI_VIANATUREHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="HistoryChn.svn" group-title="Channels" User-Agent="AppleCoreMedia,HISTORY
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/A1_SI_HISTORYHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="ViasatHistory.svn" group-title="Channels" User-Agent="AppleCoreMedia,VIASAT HISTORY
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_VIASATHISTORYHD_ott/__op/dash-default/__dci/A1_SI_VIASATHISTORYHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="ViasatExplorer.svn" group-title="Channels" User-Agent="AppleCoreMedia,VIASAT EXPLORE
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EXPLORER_ott/__op/dash-default/__dci/A1_SI_EXPLORER_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="DaVinciLearning.svn" group-title="Channels" User-Agent="AppleCoreMedia,DAVINCI LEARNING
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DAVINCILEAR_ott/__op/dash-default/__dci/A1_SI_DAVINCILEAR_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="24Kitchen.svn" group-title="Channels" User-Agent="AppleCoreMedia,24 KITCHEN
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_24KITCHENHD_ott/__op/dash-default/__dci/A1_SI_24KITCHENHD_ott/__f/manifest.m3u8
-#EXTINF:0 tvg-id="TLC.svn" group-title="Channels" User-Agent="AppleCoreMedia,TLC
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DISCTLCHD_ott/__op/dash-default/__dci/A1_SI_DISCTLCHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="CBSreality.svn",CBS REALITY
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_REALITY_ott/__op/dash-default/__dci/A1_SI_REALITY_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Woman.svn",WOMAN
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_WOMANHD_ott/__op/dash-default/__dci/A1_SI_WOMANHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="DrFit.svn",DRFIT
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DRFITHD_ott/__op/dash-default/__dci/A1_SI_DRFITHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ŠportTV1.svn",ŠPORT TV 1
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTVHD_ott/__op/dash-default/__dci/A1_SI_SPORTTVHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ŠportTV2.svn",ŠPORT TV 2
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTV2HD_ott/__op/dash-default/__dci/A1_SI_SPORTTV2HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ŠportTV3.svn",ŠPORT TV 3
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPORTTV3HD_ott/__op/dash-default/__dci/A1_SI_SPORTTV3HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ArenaSport1.ba",ARENASPORT 1
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT1HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT1HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ArenaSport2.rs",ARENASPORT 2
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT2HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT2HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ArenaSport3.hr",ARENASPORT 3
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT3HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT3HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ArenaSport4.svn",ARENASPORT 4
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENASPORT4HD_ott/__op/dash-default/__dci/A1_SI_ARENASPORT4HD_ott/__f/manifest.m3u8
-#EXTINF:-1, tvg-id="ArenaSportPremium1.rs" ,Arena Sport Premium 1
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ARENAPREMIUMHD_ott/__op/dash-default/__dci/A1_SI_ARENAPREMIUMHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Eurosport1.hr",EUROSPORT 1
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORTHD_ott/__op/dash-default/__dci/A1_SI_EUROSPORTHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Eurosport2.hr",EUROSPORT 2
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EUROSPORT2HD_ott/__op/dash-default/__dci/A1_SI_EUROSPORT2HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Sport1HD.de",SPORT1
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DSF_ott/__op/dash-default/__dci/A1_SI_DSF_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Extreme.svn",EXTREME
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_EXTREME_ott/__op/dash-default/__dci/A1_SI_EXTREME_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Motorvision.svn",MOTORVISION
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_MOTORVISIONTV_ott/__op/dash-default/__dci/A1_SI_MOTORVISIONTV_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="RTSMaribor.svn",RTS MARIBOR
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rts.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="TeleM.svn",TELE M
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/telem.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="TVKoper.svn",KOPER
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/koper.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="VASKanal.svn",VAŠ KANAL
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vaskanal.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="TVAs.svn",AS TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/astv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="VTVVelenje.svn",VTV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vtv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="TVCelje.svn",TV CELJE
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tvcelje.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="SipTV.svn",SIP TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/siptv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="TVIdea.svn",IDEA TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ideatv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="NETtv.svn",NET TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/net.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="ArenaTV.svn",ARENA TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/arenatv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",GALEJA TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/galeja.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="BKTV.svn",BK TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bktvslo.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="GO TV",GO TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/gotv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",TV SG
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tvsg.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="ExodusTV.svn",EXODUS TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/exodus.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="HRT1.svn",HRT1
-https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HRT1HD_ott/__op/dash-default/__dci/A1_SI_HRT1HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="HRT1.svn",HRT 1 HD
-http://195.29.70.82/PLTV/88888888/224/3221226139/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
-#EXTINF:0, tvg-id="HRT2.svn",HRT2
-https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HRT2HD_ott/__op/dash-default/__dci/A1_SI_HRT2HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="HRT2.svn",HRT 2 HD
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
-#EXTINF:0, tvg-id="HRT3.svn",HRT3
-http://195.29.70.82/PLTV/88888888/224/3221226280/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
-#EXTINF:0, tvg-id="HRT4.svn",HRT4
-http://195.29.70.82/PLTV/88888888/224/3221226281/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
-#EXTINF:0, tvg-id="RTLtelevizija.svn",RTLHRVATSKA
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtlhrvatska.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RTLtelevizija.svn",RTLHRVATSKA HD
-http://195.29.70.82/PLTV/88888888/224/3221226195/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
-#EXTINF:0, tvg-id="RTL2televizija.svn",RTLHRVATSKA 2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtlhrvatska2.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RTS1Srbija.svn",RT SRBIJE
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtsrbije.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RTCrnaGora.svn",RTCG
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtcg.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RTK.al",RTK
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtk.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="HayatTV.svn",HAYAT
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hayat.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="OBN.svn",OBN
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/obn.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="ORF1.svn",ORF1
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ORF1HD_ott/__op/dash-default/__dci/A1_SI_ORF1HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ORF2.svn",ORF2
-https://streamer13.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_ORF2HD_ott/__op/dash-default/__dci/A1_SI_ORF2HD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="ARD.svn",ARD
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ard.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="ZDF.svn",ZDF
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/zdf.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="3SAT.svn",3SAT
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/3sat.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RAI1.svn",RAI 1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rai1.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RAI2.svn",RAI 2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rai2.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RAI3.svn",RAI 3
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rai3.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="DunaTV.svn",DUNA TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dunatv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="TopTV.svn",TOP TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/toptv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="BBCWorld.svn",BBC WORLD
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bbcworld.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="CNNInternational.svn",CNN
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cnn.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="Bloomberg.svn",BLOOMBERG
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/bloomberg.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="TV5Monde.svn",TV5MONDE
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/tv5monde.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="France24.svn",FRANCE24
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/france24.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="ntv.de",NTV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ntv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="AlJazeeraBalkans.svn",AL JAZEERA BALKANS
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/aljazeera.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="AlJazeeraBalkans.svn",AL JAZEERA BALKANS HD
+http://z.4a.si:80/rtv.php?kanal=tv.slo3
+#EXTINF:-1 tvg-id="N1 Slovenija" tvg-name="N1 Slovenija",N1 Slovenija
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1slv&u=n1info&p=n1Sh4redSecre7iNf0&player=http
+#EXTINF:-1 tvg-id="N1 Srbija" tvg-name="N1 Srbija",N1 Srbija
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=http
+#EXTINF:-1 tvg-id="N1 Hrvaška" tvg-name="N1 Hrvaška",N1 Hrvaška
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=http
+#EXTINF:-1 tvg-id="N1 BiH" tvg-name="N1 BiH",N1 BiH
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=http
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews",EuroNews Srbija
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1302619168_b6256000.m3u8
+#EXTINF:-1 tvg-id="RT" tvg-name="RT",RT
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/chunklist_b4128000.m3u8
+#EXTINF:0, tvg-id="Al Jazeera Balkans",AL JAZEERA BALKANS HD
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:0, tvg-id="RTLNEMCIJA.svn",RTL
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/rtl.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="RTL2NEMCIJA.svn",RTL2
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_RTL2_ott/__op/dash-default/__dci/A1_SI_RTL2_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Pro7.svn",PRO7
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_PRO7_ott/__op/dash-default/__dci/A1_SI_PRO7_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Kabel1.svn",KABEL1
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_KABEL1_ott/__op/dash-default/__dci/A1_SI_KABEL1_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="SAT1.svn",SAT1
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SAT1_ott/__op/dash-default/__dci/A1_SI_SAT1_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="VOX.svn",VOX
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_VOX_ott/__op/dash-default/__dci/A1_SI_VOX_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="E.svn",E!
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/e.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="FashionTV.svn",FASHION TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/fashion.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="Ginx.svn",GINX ESPORTS TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/ginx.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",ARENAESPORT
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/arenaesport.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="Mediaset.it",MEDIASET ITALIA
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mediaset.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="ChannelOneRussia.svn",CHANNEL ONE RUSSIA
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/russia1.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="POPOTO.svn",POP OTO
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_POPOTOHD_ott/__op/dash-default/__dci/A1_SI_POPOTOHD_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Boomerang.svn",BOOMERANG
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BOOMERANG_ott/__op/dash-default/__dci/A1_SI_BOOMERANG_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="CartoonNetwork.svn",CARTOON NETWORK
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/A1_SI_CARTOON_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="BabyTV.svn",BABY TV
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BABYTV_ott/__op/dash-default/__dci/A1_SI_BABYTV_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="SuperRTL.svn",SUPER RTL
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SUPERRTL_ott/__op/dash-default/__dci/A1_SI_SUPERRTL_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="MINIMAX.svn",MINIMAX
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_MINIMAX_ott/__op/dash-default/__dci/A1_SI_MINIMAX_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="NickJr.svn",NICK JUNIOR
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NICKJR_ott/__op/dash-default/__dci/A1_SI_NICKJR_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="JimJam.svn",JIM JAM
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_JIMJAM_ott/__op/dash-default/__dci/A1_SI_JIMJAM_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="Nickelodeon.svn",NICKELODEON
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NICKELODEON_ott/__op/dash-default/__dci/A1_SI_NICKELODEON_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="DuckTV.hr",DUCK TV
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DUCKTV_ott/__op/dash-default/__dci/A1_SI_DUCKTV_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="",NICKTOONS
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_NICKTOONS_ott/__op/dash-default/__dci/A1_SI_NICKTOONS_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="MTV.svn",MTV ADRIA
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="MTVLive.svn",MTV LIVEHD
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvlive.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0,Redbull TV[HD] 720p
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Redbull TV[HD] 1080p
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0, tvg-id="TVVeseljak.svn",TV VESELJAK
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/veseljak.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="DMSat.svn",DM SAT
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dmsat.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="CMC.svn",CMC
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/cmc.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="Jugoton.svn",JUGOTON
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/jugoton.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="MTVRocks.svn",MTV 90s
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_MTV2_ott/__op/dash-default/__dci/A1_SI_MTV2_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="MTVHits.svn",MTV HITS
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvhits.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="MTVDance.svn",MTV DANCE
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mtvdance.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="VH1.svn",VH 1
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vh1.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="VH1Classic.svn",VH 1 CLASSIC
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/vh1cla.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="Mezzo.svn",MEZZO
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mezzo.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",MEZZO LIVEHD
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/mezzolivehd.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="PlayboyTV.svn",PLAYBOY TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/playboytv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="HustlerHD.svn",HUSTLER HD
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hustlerhd.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",HUSTLER TV
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/hustlertv.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",REALITY KINGS
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/realitykings.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="DorcelTV.svn",DORCEL
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/dorcel.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0, tvg-id="",DUSK TV
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DUSKTV_ott/__op/dash-default/__dci/A1_SI_DUSKTV_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="",BRAZZERS
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_SPICE_ott/__op/dash-default/__dci/A1_SI_SPICE_ott/__f/manifest.m3u8
-#EXTINF:0, tvg-id="",PRIVATE
-https://streamer14.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_XXXXTREME_ott/__op/dash-default/__dci/A1_SI_XXXXTREME_ott/__f/manifest.m3u8
-#EXTINF:0,Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0,Plus tv
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1,Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,Motor TV
-http://45.58.62.92:8084
 #EXTINF:-1,Tv2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:1,REAL MADRID TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1,Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1,Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,m20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Radio Capital TiVu
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1,Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1,Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1,SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,TeleArena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1,teleMonteneve
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1,telePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1,Trentino TV
-http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 #EXTINF:-1,TVRS
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1,Video Brescia
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Slovenija_1.png" ,Radio Slovenija 1
-https://34-rtvslo-ra-ra1.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Val_202.png" ,Val 202
-https://19-rtvslo-ra-val202.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/ARS.png" ,ARS
-https://35-rtvslo-ra-ars.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Slovenia_International.png" ,Radio Slovenia International
-https://40-rtvslo-ra-rsi.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Maribor.png" ,Radio Maribor
-https://39-rtvslo-ra-ramb.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Koper.png" ,Radio Koper
-https://38-rtvslo-ra-rakp.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual
 http://stream.radioaktual.si/Aktual
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual Dalmacija
@@ -511,13 +179,3 @@ http://live.1chi.si/vrabcek?1572716873568
 http://stream.mister-deejay.com:9010/;
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Ognjisce.png" ,Radio Ognjišče
 http://real.ognjisce.si:8000/ognjisce.mp3
-#EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV sd 1-2
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planettv.m3u8
-#EXTINF:0 tvg-id="PlanetTV.svn" group-title="Channels" User-Agent="AppleCoreMedia,Planet TV 720p
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/planettv720p.m3u8
-#EXTINF:0 tvg-id="HRT1.svn" group-title="Channels" User-Agent="AppleCoreMedia,HRT1 mpd
-https://cdn1-hrt.cdn.eurovisioncdn.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
-#EXTINF:0 tvg-id="HRT1.svn" group-title="Channels" User-Agent="AppleCoreMedia,HRT1 m3u8
-https://cdn1-hrt.cdn.eurovisioncdn.net/hrtliveorigin/hrt1.smil/1/manifest.m3u8
-#EXTINF:0 tvg-id="Slo2.svn" group-title="Channels" User-Agent="AppleCoreMedia,SLO 2 720p forced
-https://raw.githubusercontent.com/12345678912345678912345678912345678-iu/pametno/kombinatorika/slo2.m3u8
