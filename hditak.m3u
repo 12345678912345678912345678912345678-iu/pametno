@@ -25,48 +25,24 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Redbull TV[HD] 1080p
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0,Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0,Plus tv
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1,Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,Motor TV
-http://45.58.62.92:8084
 #EXTINF:-1,Tv2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:1,REAL MADRID TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1,Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1,Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,m20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Radio Capital TiVu
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1,Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1,Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1,SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,TeleArena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1,teleMonteneve
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1,telePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1,Trentino TV
-http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 #EXTINF:-1,TVRS
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1,Video Brescia
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1,TV Partizan HD
-http://212.200.102.3:5000/udp/239.99.99.99:23999
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual
 http://stream.radioaktual.si/Aktual
 #EXTINF:-1 radio="true" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Radio_Aktual.png" ,Radio Aktual Dalmacija
